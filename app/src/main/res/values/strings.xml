@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Heard Nerd</string>
+    <string name="search_hint">EX: Texas Ranger</string>
+
+    <string name="event_title">Event Title</string>
+    <string name="event_date">Event Date</string>
+
+    <string name="event_details_name">Event Details Name</string>
+    <string name="event_details_date">Event Details Date</string>
+    <string name="event_details_url">Event Details Url</string>
+
+    <string name="venue_title">VENUE</string>
+    <string name="venue_details_name">Venue Details Name</string>
+    <string name="venue_details_address">Venue Details Address</string>
+    <string name="venue_details_address_second">Venue Details Address Second</string>
+
+    <string name="prices_title">PRICE</string>
+    <string name="lowest_price">Lowest Price</string>
+    <string name="highest_price">Highest Price</string>
+    <string name="average_price">Average Price</string>
+
+    <string name="performer_title_a">PERFORMER</string>
+    <string name="performer_title_b">PERFORMERS</string>
+    <string name="performer_image">Performer Image</string>
+</resources>
